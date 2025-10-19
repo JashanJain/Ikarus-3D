@@ -72,8 +72,8 @@ export default function App() {
       <header className="sticky top-0 z-30 border-b bg-white/90 backdrop-blur">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3" style={{ fontFamily: "var(--font-family)", fontWeight: "var(--font-weight)" }}>
           <div className="flex items-center gap-3">
-            <div className="grid h-9 w-9 place-items-center rounded-xl bg-slate-900 text-white">UI</div>
-            <span className="text-lg font-bold">Ikarus 3D</span>
+            <div className="grid h-9 w-9 place-items-center rounded-xl bg-slate-900 text-white"></div>
+            <span className="text-lg font-bold">Jashan</span>
           </div>
           <div className="relative flex items-center gap-2">
             <div className="flex items-center gap-1 rounded-lg border p-1 text-xs">
@@ -216,7 +216,7 @@ export default function App() {
 
       <footer className="mx-auto max-w-7xl px-4 py-8 text-center text-xs text-slate-500">
         
-        <div className="font-medium">© 2024 Ikarus 3D. All Rights Reserved.</div>
+        <div className="font-medium">© All Rights Reserved.</div>
       </footer>
     </div>
   );
